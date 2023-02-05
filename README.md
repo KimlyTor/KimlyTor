@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Kimly. 
+I was a Software Engineering Intern at Asurion and a programming instructor at Juni Learning. I'm currently a senior at Columbia University and a software engineer at Infinite Goods. 
+
+
+
 
 <!--
 **KimlyTor/KimlyTor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
