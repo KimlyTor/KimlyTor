@@ -1,7 +1,8 @@
 ### Hi there 👋, I'm Kimly. 
 I was a Software Engineering Intern at Asurion and a programming instructor at Juni Learning. I'm currently a senior at Columbia University and a software engineer at Infinite Goods. 
 
-
+- 😄 Pronouns: She/her/hers
+- 🌱 I’m currently learning [Open Source Development](https://www.cs.columbia.edu/~paine/4995/)
 
 
 <!--
@@ -10,7 +11,7 @@ I was a Software Engineering Intern at Asurion and a programming instructor at J
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Open Source Development 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
