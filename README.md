@@ -1,3 +1,4 @@
+<!--
 ### Hi there 👋, I'm Kimly. 
 I was a Software Engineering Intern at Asurion and a programming instructor at Juni Learning. I'm currently a senior at Columbia University and a software engineer at Infinite Goods. 
 
@@ -5,7 +6,7 @@ I was a Software Engineering Intern at Asurion and a programming instructor at J
 - 🌱 I’m currently learning [Open Source Development](https://www.cs.columbia.edu/~paine/4995/)
 
 
-<!--
+
 **KimlyTor/KimlyTor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
